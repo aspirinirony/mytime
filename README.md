@@ -1,4 +1,6 @@
-railsinstaller_demo
+my_project
 ===================
 
-Rails Installer Demo
+github hollow world
+
+my_project
