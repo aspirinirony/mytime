@@ -46,10 +46,3 @@
 	</footer>
  </body>
 </html>
-<?
-// Hosting : godo.com
-// DB HOST	localhost
-// DB NAME	aspirinirony_godohosting_com
-// DB 아이디	aspirinirony
-// phpadim http://aspirinirony.com/godo_mysql_phpmyadmin
-?>
